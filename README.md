@@ -1,2 +1,2 @@
 # Retail-Project
-Please check 'Retail_17.9.26.ipynb' for details of the project
+Please check 'Retail_17.9.27.ipynb' for details of the project
